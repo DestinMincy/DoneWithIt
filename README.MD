@@ -1,4 +1,6 @@
-# DoneWithIt was a tutorial that I followed to learn how React Native functioned.
+# DoneWithIt
+
+### DoneWithIt was a tutorial that I followed to learn how React Native functioned.
 
 ## lessons include: </b><br />
 
